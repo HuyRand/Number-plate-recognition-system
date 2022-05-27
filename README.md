@@ -27,6 +27,10 @@ pip install -r requirements.txt
 
 ## Chạy chương trình
 Chạy file test Test.py , thay đổi path của cv2.imread ở dòng thứ 11 sẽ thay đổi tấm ảnh muốn chạy
+Sau khi chạy file sẽ xuất hiện 2 hình ảnh
+
+<img src ="./img/bienso.png" alt ="Ảnh biển số" width = "350" height ="250"/>
+<img src ="./img/anhxe.png" alt ="Ảnh đọc biển số" width ="350" height ="250"/>
 
 ## Deploy app locally 
 Chạy file app.py , chương trình sẽ được chạy local trên url: http://127.0.0.1:5000 
