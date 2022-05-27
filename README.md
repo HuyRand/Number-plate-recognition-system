@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Chạy chương trình
 Chạy file test Test.py , thay đổi path của cv2.imread ở dòng thứ 11 sẽ thay đổi tấm ảnh muốn chạy
 
-##Deploy app locally 
+## Deploy app locally 
 Chạy file app.py , chương trình sẽ được chạy local trên url: http://127.0.0.1:5000 
 
 ## Deployment 
