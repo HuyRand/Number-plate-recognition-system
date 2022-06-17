@@ -37,6 +37,7 @@ Sau khi chạy file sẽ xuất hiện 2 hình ảnh
 
 ## Chạy file test độ chính xác của mô hình 
 Tải bộ dataset biển số xe được đưa ra trên và cho vào thư mục chương trình
+
 Install các công cụ để tính độ CER và WER
 ```
 pip install pybind11
