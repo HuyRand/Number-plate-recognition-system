@@ -2,7 +2,7 @@
 
 ## Giới thiệu môn học
 
-* **Tên môn học:** Nhập môn Thị giác máy tính
+* **Tên môn học:** Thị giác máy tính trong tương tác giữa người và máy
 * **Mã môn học:** CS532
 * **Mã lớp:**  CS532.M21.KHCL
 * **Giảng viên:** Đỗ Văn Tiến
