@@ -48,4 +48,4 @@ Chạy file Test2.py
 Chạy file app.py , chương trình sẽ được chạy local trên url: http://127.0.0.1:5000 
 
 ## Deployment 
-Ứng dụng được deploy trên heroku trên đường link: https://cs532.herokuapp.com/
+Ứng dụng được deploy trên heroku trên đường link(deprecated, heroku stops being free): https://cs532.herokuapp.com/
